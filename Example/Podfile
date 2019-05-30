@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZMKHJumpTool_Example' do
+  pod 'ZMKHJumpTool', :path => '../'
+
+  target 'ZMKHJumpTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
