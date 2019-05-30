@@ -1,0 +1,6 @@
+framework module ZMKHJumpTool {
+  umbrella header "ZMKHJumpTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

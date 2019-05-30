@@ -1,0 +1,16 @@
+PODS:
+  - ZMKHJumpTool (0.0.1)
+
+DEPENDENCIES:
+  - ZMKHJumpTool (from `../`)
+
+EXTERNAL SOURCES:
+  ZMKHJumpTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZMKHJumpTool: 531f143d930af5afca4abd1296c3e71f3c24b742
+
+PODFILE CHECKSUM: 6dacbf60201b8f6c768efe889abe29ae453f2fd7
+
+COCOAPODS: 1.6.1
